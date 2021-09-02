@@ -1,0 +1,12 @@
+.stage{
+    background-color: red;
+}
+.examens{
+    background-color: green;
+}
+.start{
+    background-color: blue;
+}
+body{
+    font-family: "Arial Black";
+}
